@@ -1,4 +1,4 @@
-name: Winex-AI-summary
+name: winex-ai-summary
 
 on:
   push:
