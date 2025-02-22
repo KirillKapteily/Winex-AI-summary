@@ -1,4 +1,4 @@
-name: Deploy Winex Summarizer
+name: Winex-AI-summary
 
 on:
   push:
