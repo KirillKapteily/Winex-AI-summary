@@ -26,8 +26,9 @@
 //     }
 // });
 
-import dotenv from 'dotenv';
+const dotenv = require('dotenv');
 dotenv.config();
+
 
 const API_KEY = process.env.HUGGING_FACE_API_KEY;  // Загружаем API-ключ
 
